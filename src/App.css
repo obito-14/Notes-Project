@@ -1,0 +1,15 @@
+.head{
+    text-align: center;
+    color: #fff;
+    box-shadow: 10px 10px 8px 10px #888888a3;
+    border-radius: 6px;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.48);
+    margin-bottom: 6rem;
+}
+.note{
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

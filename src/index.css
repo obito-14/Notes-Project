@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,300&family=Lato&family=Oswald&family=Roboto&family=Roboto+Condensed:ital@1&family=Roboto+Mono:ital@1&family=Ubuntu&display=swap');
+body {
+  margin: 0;
+  padding: 20px;
+  box-sizing: border-box;
+  font-family: 'Roboto Mono', monospace;
+  background: #0f0c29;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to bottom, #24243e, #302b63, #0f0c29);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to bottom, #24243e, #302b63, #0f0c29); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  
+}

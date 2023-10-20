@@ -1,0 +1,35 @@
+body {
+  padding: 20px;
+}
+.boxModel {
+  margin: 10px;
+  padding: 0px 15px;
+  border-radius: 8px;
+  background: #fff;
+  width: 19rem;
+  height: 19rem;
+}
+.boxModel textarea {
+  resize: none;
+  width: 96%;
+}
+#heading {
+  font-size: 20px;
+  text-align: center;
+  border-bottom: 3px solid gray;
+}
+#paragraph {
+  font-size: 15px;
+}
+.deleteIcon {
+  position: relative;
+  color: red;
+  top: 1rem;
+  left: 17rem;
+  cursor: pointer;
+}
+@media all and (max-width: 384px) {
+  .deleteIcon {
+    left: 0rem;
+  }
+}
